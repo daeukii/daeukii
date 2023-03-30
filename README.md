@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaeukii&count_bg=%23E6E6E6&title_bg=%23D9DE4B&icon=node-dot-js.svg&icon_color=%23202020&title=JavaScript&edge_flat=true)](https://hits.seeyoufarm.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaeukii&count_bg=%23E6E6E6&title_bg=%2307EAFF&icon=react.svg&icon_color=%2350949A&title=React&edge_flat=true)](https://hits.seeyoufarm.com)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
