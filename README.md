@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaeukii&count_bg=%2379C83D&title_bg=%23555555&icon=react.svg&icon_color=%23E7E7E7&title=React&edge_flat=true)](https://hits.seeyoufarm.com)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daeukii&layout=compact)](https://github.com/daeukii/github-readme-stats)
 ![daeukii's GitHub stats](https://github-readme-stats.vercel.app/api?username=daeukii&show_icons=true&theme=dark)  
