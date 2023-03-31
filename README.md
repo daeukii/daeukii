@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <br>
  </div>
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daeukii&layout=radical&theme=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daeukii&layout=radical&theme=demo)
  
  [![daeuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=daeukii)](https://github.com/daeukii/github-readme-stats)
 
