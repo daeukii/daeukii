@@ -34,10 +34,8 @@ Here are some ideas to get you started:
  
 
  
-<div align="center">
-  https://github-readme-stats.vercel.app/api?username=daeukii)](https://github.com/daeukii/github-readme-stats
-</div>
 
+  [![daeuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=daeukii)](https://github.com/daeukii/github-readme-stats)
 
 
 
