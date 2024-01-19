@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Daeuk's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 <div align=center>
- 안녕하세요, 프론트엔드 개발자를 꿈꾸며 협업하고 성장하는 것을 좋아하는 허대욱입니다.
+ 안녕하세요,
 </div>
 
  <div align=center><h1>📚 STACKS</h1></div>
