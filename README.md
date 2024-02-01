@@ -1,9 +1,9 @@
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;">
+<div align="center">
   <h2>안녕하세요, 백엔드 개발자를 꿈꾸는 허대욱입니다 :)</h2>
   
-  <div>STACK</div>
+  <h2>STACK</h2>
   
-  <h1>FRAMEWORK/LIBRARIES</h1>
+  <h2>FRAMEWORK/LIBRARIES</h2>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
   
