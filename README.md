@@ -1,3 +1,6 @@
+
+<div style="display: flex; justify-content: center; align-items: center;">  
+
 안녕하세요, 백엔드 개발자를 꿈꾸는 허대욱 입니다 :)
 
 <h1>STACK</h1>
@@ -35,6 +38,6 @@
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![aws](	https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+</div>
 
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+
