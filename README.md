@@ -1,7 +1,7 @@
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;">
   <h2>안녕하세요, 백엔드 개발자를 꿈꾸는 허대욱입니다 :)</h2>
   
-  STARK
+  <div>STACK</div>
   
   <h1>FRAMEWORK/LIBRARIES</h1>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring">
