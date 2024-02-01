@@ -1,4 +1,4 @@
-<div align="center">
+<div >
   <p>안녕하세요, 백엔드 개발자를 꿈꾸는 허대욱입니다 :)</p>
   
   <h1>My stack</h1>
